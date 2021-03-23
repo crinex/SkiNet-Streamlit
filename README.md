@@ -5,7 +5,7 @@
 ![Demo](https://media.giphy.com/media/tSAqqpRU32BX1TwC61/giphy.gif)
 
 # Demo
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)(https://share.streamlit.io/crinex/skinet-streamlit/main/app.py)
 
 # Set Environment
 ### Create Conda Environment
